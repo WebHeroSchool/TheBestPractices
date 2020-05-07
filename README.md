@@ -134,3 +134,4 @@ document.querySelector('#sidebar p').textContent = 'foo';
 
 + https://medium.com/javascript-in-plain-english/javascript-best-practices-for-beginners-b573cbc1ec0f
 + https://www.w3bai.com/ru/js/js_best_practices.html
++ https://badcode.ru/javascript-luchshiie-praktiki-imienovaniie/
